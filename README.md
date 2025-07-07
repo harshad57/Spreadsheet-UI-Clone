@@ -9,8 +9,6 @@ A pixel-perfect frontend prototype of a spreadsheet layout built with **React**,
 - Spreadsheet-style layout with **row numbers**
 - Styled badges for status, priority, links
 - Responsive, scrollable grid
-- Cell selection with green border
-- Truncated text with `...`
 - Styled header toolbar & action buttons (Import, Export, Share)
 
 ---
